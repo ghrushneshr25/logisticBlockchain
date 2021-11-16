@@ -24,4 +24,4 @@ module.exports = {
   STARTING_BALANCE,
   REWARD_INPUT,
   MINING_REWARD,
- };
+};
